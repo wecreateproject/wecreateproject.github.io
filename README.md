@@ -38,7 +38,7 @@ Join the conversation and connect with the we create project community:
 - <a href="http://linkedin.wecreateproject.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 - <a href="http://x.wecreateproject.com" target="_blank" rel="noopener noreferrer">X / Twitter</a>
 - <a href="https://farcaster.xyz/wecreateproject.eth" target="_blank" rel="noopener noreferrer">Farcaster</a>
- 
+
 ---
 
 <p align="center">
