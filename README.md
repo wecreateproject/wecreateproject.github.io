@@ -20,7 +20,7 @@ We know what will transform and lift a brand higher, we carry your brand to the 
 
 - **Website:** [wecreateproject.com](https://wecreateproject.com)
 - **Blog:** [blog.wecreateproject.com](https://wecreateproject.com/blog)
-- **Social:** [social.wecreateproject.com](https://social.wecreateproject.com)
+- **Social:** [social.wecreateproject.com](http://social.wecreateproject.com)
 
 ## 🤝 Contributing
 
@@ -35,7 +35,8 @@ If you discover a security vulnerability, please follow our [Security Policy](ht
 Join the conversation and connect with the we create project community:
 
 - [Connect](https://wecreateproject.com/contact)
-- [X (Twitter)](https://x.com/wecreateproject)
+- [LinkedIn](http://linkedin.wecreateproject.com)
+- [X (Twitter)](http://x.wecreateproject.com)
 - [Farcaster](https://farcaster.xyz/wecreateproject.eth)
 
 ---
